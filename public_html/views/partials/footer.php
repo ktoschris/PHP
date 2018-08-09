@@ -1,0 +1,6 @@
+<center>FOOTER</center>
+
+
+</body>
+
+</html>
